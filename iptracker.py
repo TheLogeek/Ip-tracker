@@ -73,9 +73,9 @@ def program_intro():
 		pass
 
 	try:
-		with open(os.path.join(path, "Ip Address info"), "w") as file:
+		with open("Ip Address info", "w") as file:
 			file.write(information)
-		print(f"{YELLOW}\n[✓] FILE SAVED SUCCESSFULLY!: {path}/Ip Address info{RESET}")
+		print(f"{YELLOW}\n[✓] FILE SAVED SUCCESSFULLY!: {Path.cwd()}/Ip Address info{RESET}")
 	except:
 		pass
 	res = input(f"{YELLOW}Do you want to continue (y/n){RESET}: ")
