@@ -2,7 +2,7 @@
 
 **Usage**
 *clone the repository:*
-git clone https://github.com/SoloTech01/IP Tracker
+git clone https://github.com/SoloTech01/Ip-Tracker
 
 cd IP Tracker
 python Ip-Tracker.py
