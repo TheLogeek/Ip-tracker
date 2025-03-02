@@ -5,4 +5,4 @@
 git clone https://github.com/SoloTech01/Ip-tracker
 
 cd Ip-tracker
-python Ip-Tracker.py
+python iptracker.py
