@@ -57,7 +57,7 @@ def program_intro():
 [+] Program name: IP Tracker
 [+] Created by Solomon Adenuga
 [+] Version: 1.0
-[+] Github: https://github.com/SoloTech01
+[+] Github: https://github.com/TheLogeek
 [+] Whatsapp: +2348023710562
 """)
 	print("xxxxxx" * 11)
